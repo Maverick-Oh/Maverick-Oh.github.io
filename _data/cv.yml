@@ -1,3 +1,8 @@
+- title: This is not a full CV.
+  type:
+  contents:
+    - This page is a web-based CV, and it does not contain everything (yet). For a full conventional CV, please refer to the PDF file that you can find on the upper right corner of this page. ↗️↗️↗️
+
 - title: General Information
   type: map
   contents:
@@ -9,7 +14,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD - Physics
       institution: University of California - Merced, California, United States
       year: 2020 - Present
       description:
@@ -17,7 +22,7 @@
         - title: Research Theme
           contents:
             - Dark matter substructure analysis with quadruply lensed quasars
-    - title: Bachelor of Science
+    - title: Bachelor of Science - Physics
       institution: Gwangju Institute of Science and Technology, South Korea
       year: 2015 - 2020
       description:

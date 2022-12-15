@@ -1,16 +1,14 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kim":
+  - firstname: ["Joonhwi", "Joon-Hwi", "J. H."]
+    url: https://scholar.google.com/citations?user=A15RZN4AAAAJ
+  - firstname: ["Keun-Young", "K. Y."]
+    url: https://scholar.google.com/citations?hl=en&user=5CArNOwAAAAJ
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Lee":
+  - firstname: ["Soo Jong"]
+    url: http://college.gist.ac.kr/prog/gsPerson/college_eng/P/view.do?personId=P0000811&mno=sub03_01_01_04_01
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
+"Bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
