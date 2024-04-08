@@ -30,7 +30,7 @@ I am a PhD student at University of California, Merced.
 
 This webpage is actively being updated; I am learning how to make it.
 
-I am working with <a href='https://www.ucmerced.edu/content/anna-nierenberg'>Prof. Anna Nierenberg</a> on modeling and analysis of gravitationally lensed quasar systems to understand and constrain dark matter properties.
+I am working with <a href='https://naturalsciences.ucmerced.edu/people/anna-nierenberg'>Prof. Anna Nierenberg</a> on modeling and analysis of gravitationally lensed quasar systems to understand and constrain dark matter properties.
 
 I am using the data from Hubble Space Telescope to statistically constrain the distribution of dark matter halos, which is related to their fundamental properties.
 
