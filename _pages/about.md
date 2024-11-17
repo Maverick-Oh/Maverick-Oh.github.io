@@ -26,7 +26,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-I am a PhD student at University of California, Merced.
+I am a PhD candidate at University of California, Merced, currently on a leave of absence and residing in Rockville, Maryland.
 
 This webpage is actively being updated; I am learning how to make it.
 
